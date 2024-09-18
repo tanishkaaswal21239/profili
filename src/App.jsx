@@ -7,7 +7,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Achievements } from "./components/Achievements/Achieve";
-import { Downloadcv } from "./components/Cvsection/cv";
+import { Downloadcv } from "./components/Cvsection/Cv";
 
 function App() {
   return (
