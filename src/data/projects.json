@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Embrace Autism",
+    "imageSrc": "projects/project.png",
+    "description": "Devpost MediHacks-2023-1st Prize.Helps autistic people to better merge with the society.",
+    "skills": ["ReactJS", "TailwindCSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ReactBooks",
+    "imageSrc": "projects/project.png",
+    "description": "Online Book store that lets you search a book from the catalogue and has a add to cart functionality.",
+    "skills": ["React", "BootstrapCSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SplitBills",
+    "imageSrc": "projects/project.png",
+    "description": "Makes splitting bills easier for you and your friends.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

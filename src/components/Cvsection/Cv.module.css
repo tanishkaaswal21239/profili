@@ -1,0 +1,24 @@
+
+.cvDownloadSection {
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+  }
+  
+  .cvDownloadButton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4a57a6;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-top: 50px;
+  }
+  
+  .cvDownloadButton:hover {
+    background-color: #6c63ff;
+  }
+  

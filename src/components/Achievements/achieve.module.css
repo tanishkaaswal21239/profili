@@ -1,0 +1,76 @@
+@import "../../vars.css";
+.experience-section {
+  margin-top: 129px;
+  z-index: 1;
+  border-radius: 15px;
+    padding: 2rem;
+    color: white;
+  }
+  .title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+  }
+  
+  .experienceitem {
+    background-color: #4f70ac;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    margin-left: 25px;
+    margin-right: 55px;
+    font-size: 20px;
+  }
+  
+  .tech-stack span {
+    margin-right: 10px;
+    background-color: #121f36;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
+  .buttons a {
+    margin-right: 10px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .demo-button {
+    background-color: #6c63ff;
+  }
+  
+  .source-button {
+    background-color: #4a57a6;
+  }
+  
+  .cv-section {
+    padding: 2rem;
+    text-align: center;
+    background-color: #233159;
+  }
+  
+  .cv-download-button {
+    padding: 10px 20px;
+    background-color: #4a57a6;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .contact-section {
+    padding: 2rem;
+    background-color: #2b3e6b;
+    text-align: center;
+    color: white;
+  }
+  
+  .contact-info a {
+    color: #6c63ff;
+    text-decoration: none;
+  }
+  
